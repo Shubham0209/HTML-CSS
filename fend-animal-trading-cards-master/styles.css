@@ -1,0 +1,13 @@
+/* add your CSS here */
+.italicize{
+  font-style: italic;
+}
+.boldize{
+  font-weight: bold;
+}
+.ridge {
+  border-style: groove;
+}
+.padding{
+  padding: 1em;
+}
